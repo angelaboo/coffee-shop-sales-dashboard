@@ -2,7 +2,7 @@
 
 ## Overview
 This **Power BI dashboard** provides actionable insights into **Chatcup Coffee Chain**'s sales performance, enabling data-driven decisions to optimize inventory, staffing, and store operations. Designed for business stakeholders, it answers critical questions like:  
-- **When** are peak sales hours, and how do sales trends vary daily/monthly?  
+- **When** are peak sales hours, and how do sales trends vary hourly?  
 - **What** are the top-selling products across categories (Coffee, Tea, Bakery)?  
 - **Where** are the highest-performing store locations?  
 
