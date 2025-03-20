@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analytics Dashboard
+# Coffee Shop Sales Analysis Dashboard
 
 ## Overview
 This **Power BI dashboard** provides actionable insights into **Chatcup Coffee Chain**'s sales performance, enabling data-driven decisions to optimize inventory, staffing, and store operations. Designed for business stakeholders, it answers critical questions like:  
