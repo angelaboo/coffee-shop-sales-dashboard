@@ -13,7 +13,7 @@ Leveraging **DAX formulas** and a **star schema data model**, the dashboard dyna
 - Revenue Distribution Across Stores
 - Month-over-Month (MoM) Growth
 
-![Dashboard Snapshot](https://github.com/angelaboo/coffee-shop-sales-dashboard/blob/19d06d0ab7d560252ba2e6369adddf7a96664f65/dashboard/Coffee%20Shop%20Sales%20Dashboard.jpg)  
+![Dashboard Snapshot](https://github.com/angelaboo/coffee-shop-sales-dashboard/blob/ec544e92580fddf46c36cc14a6cfcbf490ea9ba6/dashboard/Coffee%20Shop%20Sales%20Dashboard.jpg)  
 
 <br>
 
